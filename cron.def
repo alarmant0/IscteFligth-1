@@ -1,0 +1,15 @@
+###############################################################################
+## ISCTE-IUL: Trabalho prático de Sistemas Operativos 2023/2024, Enunciado Versão 3+
+##
+## Aluno: Nº:       Nome:
+## Nome do Módulo: S3.3.1. cron.def
+## Descrição/Explicação do Módulo:
+##
+##
+## Explicação de quais os comandos a usar para configurar o seu sistema Linux
+## usando este ficheiro:
+##
+##
+###############################################################################
+
+0 * * * * ./estado_voos.sh

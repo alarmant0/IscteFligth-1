@@ -1,0 +1,8 @@
+12087:FR5102:Dubai:Bangkok:450:fabio:2024-02-15:12h30
+12088:PT5030:Lisboa:Terceira:340:fabio:2024-02-18:09h12
+12089:PT6202:Tóquio:Singapura:1700:dlsgl:2024-02-19:22h37
+12090:FR5102:Dubai:Bangkok:450:nunogarrido:2024-02-25:08h48
+12091:FR5102:Dubai:Bangkok:450:dlsgl:2024-02-25:12h30
+12092:PT5000:Sydney:Los Angeles:3000:fabio:2024-02-26:00h30
+12093:PT5030:Lisboa:Terceira::a105456:2024-03-10:19h39
+12094:PT5030:Lisboa:Terceira:320:fabio:2024-03-10:19h40

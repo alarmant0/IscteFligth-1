@@ -1,0 +1,53 @@
+
+Bem-vindo, user ccruz (Ana Catarina Cruz)!!!
+ACESSO ADMIN
+
+
+Lista de Inscrições por Turno:
+
+	Grupos inscritos no Slot 11: 3ª Feira, 2019-12-17 @  8h00 Sala D1.01:
+		so-ac-g13	so-ac-g44	so-ac-g16	so-ac-g34	
+
+	Grupos inscritos no Slot 13: 3ª Feira, 2019-12-17 @ 10h00 Sala D1.01:
+		so-ac-g11	so-ac-g12	so-ac-g05	so-ac-g08	so-ac-g43	so-ac-g06	so-ac-g30	
+
+	Grupos inscritos no Slot 15: 3ª Feira, 2019-12-17 @ 12h00 Sala D1.01:
+		so-ac-g09	so-ac-g23	so-ac-g26	so-ac-g19	so-ac-g29	
+
+	Grupos inscritos no Slot 17: 3ª Feira, 2019-12-17 @ 18h00 Sala D1.02:
+		so-ac-g02	so-ac-g04	so-ac-g14	so-ac-g10	so-ac-g15	so-ac-g20	so-ac-g03	so-ac-g17	
+
+	Grupos inscritos no Slot 12: 3ª Feira, 2019-12-17 @  9h00 Sala D1.01:
+		so-jf-g11	so-jf-g06	
+
+	Grupos inscritos no Slot 14: 3ª Feira, 2019-12-17 @ 11h00 Sala D1.01:
+		so-jf-g03	so-jf-g18	so-jf-g14	
+
+	Grupos inscritos no Slot 16: 3ª Feira, 2019-12-17 @ 14h00 Sala D1.01:
+		so-jf-g20	so-jf-g04	so-jf-g24	so-jf-g07	so-jf-g05	so-jf-g08	
+
+	Grupos inscritos no Slot 23: 3ª Feira, 2019-12-17 @ 10h00 Sala D1.02:
+		so-jf-g16	so-mr-g01	so-mr-g05	so-mr-g11	so-mr-g03	so-mr-g08	so-mr-g07	
+
+	Grupos inscritos no Slot 25: 3ª Feira, 2019-12-17 @ 12h00 Sala D1.02:
+		so-mr-g09	so-mr-g12	so-mr-g06	so-mr-g02	so-jf-g21	so-jf-g09	so-mr-g04	so-cc-g04	
+
+	Grupos inscritos no Slot 22: 3ª Feira, 2019-12-17 @  9h00 Sala D1.02:
+		so-jf-g17	so-pp-g25	so-pp-g08	
+
+	Grupos inscritos no Slot 24: 3ª Feira, 2019-12-17 @ 11h00 Sala D1.02:
+		so-pp-g12	so-ac-g27	so-pp-g14	
+
+	Grupos inscritos no Slot 26: 3ª Feira, 2019-12-17 @ 14h00 Sala D1.02:
+		so-pp-g11	so-cc-g01	so-pp-g24	so-pp-g21	so-pp-g10	so-cc-g05	so-pp-g20	
+
+	Grupos inscritos no Slot 27: 3ª Feira, 2019-12-17 @ 19h00 Sala D1.02:
+		so-cc-g03	so-pp-g16	so-pp-g18	so-pp-g01	so-cc-g09	so-pp-g02	so-pp-g09	so-pp-g05	
+
+	Grupos inscritos no Slot 31: 4ª Feira, 2019-12-18 @ 19h30 Sala D1.02:
+		so-cc-g02	so-cc-g06	so-cc-g16	
+
+	Grupos inscritos no Slot 32: 4ª Feira, 2019-12-18 @ 20h30 Sala D1.02:
+		so-cc-g11	so-cc-g19	so-cc-g07	so-cc-g14	so-cc-g08	so-cc-g12	
+
+ADMIN: Indique o grupo que pretende gerir: 

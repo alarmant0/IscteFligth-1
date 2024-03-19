@@ -1,2 +1,1 @@
 # IscteFligth
-CLI Flight application
