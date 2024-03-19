@@ -21,9 +21,10 @@ IscteFLight is a simple flight management system implemented in Bash. It allows 
    git clone https://github.com/alarmant0/IscteFligth
    ```
 
-2. **Navigate to the Project Directory:**
+2. **Navigate to the Project Directory and give execute permissions:**
    ```bash
    cd IscteFLight
+   chmod +x compra_bilhetes.sh estado_voos.sh menu.sh regista_passageiro.sh stats.sh
    ```
 
 3. **Run the Scripts:**
