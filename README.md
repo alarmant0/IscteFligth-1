@@ -4,7 +4,7 @@ IscteFLight is a simple flight management system implemented in Bash. It allows 
 
 **Features**
 
-- **Compra Bilhetes (`compra_bilhetes.sh`):** This script allows users to purchase flight tickets by providing necessary details such as departure city, destination city, date, and passenger information.
+- **Compra Bilhetes (`compra_bilhete.sh`):** This script allows users to purchase flight tickets by providing necessary details such as departure city, destination city, date, and passenger information.
 
 - **Estado Voos (`estado_voos.sh`):** With this script, users can check the status of flights by entering the flight number or other relevant details.
 
@@ -24,7 +24,7 @@ IscteFLight is a simple flight management system implemented in Bash. It allows 
 2. **Navigate to the Project Directory and give execute permissions:**
    ```bash
    cd IscteFLight
-   chmod +x compra_bilhetes.sh estado_voos.sh menu.sh regista_passageiro.sh stats.sh
+   chmod +x compra_bilhete.sh estado_voos.sh menu.sh regista_passageiro.sh stats.sh
    ```
 
 3. **Run the Scripts:**
