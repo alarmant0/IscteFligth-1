@@ -1,4 +1,3 @@
-````markdown
 **IscteFLight**
 
 IscteFLight is a simple flight management system implemented in Bash. It allows users to perform various tasks related to flight booking, checking flight status, registering passengers, and navigating through a user-friendly menu interface.
@@ -19,7 +18,7 @@ IscteFLight is a simple flight management system implemented in Bash. It allows 
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/alarmant0/IscteFligth
    ```
 
 2. **Navigate to the Project Directory:**
