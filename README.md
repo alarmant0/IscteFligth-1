@@ -61,3 +61,4 @@ IscteFLight is a simple flight management system implemented in Bash. It allows 
 
 [MIT License](LICENSE)
 
+:)
