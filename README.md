@@ -54,7 +54,7 @@ IscteFLight is a simple flight management system implemented in Bash. It allows 
 
 **Requirements**
 
-- Bash (Bourne Again SHell) interpreter.
+- Bash interpreter.
 - Linux or macOS operating system (may work on Windows with WSL or Cygwin).
 
 ## Documentation
